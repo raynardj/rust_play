@@ -6,3 +6,6 @@ Run the following command at the folder with ```Cargo.toml``` file to compile an
 ```shell
 cargo run
 ```
+
+## Try new skill
+With [leetcode](https://leetcode.com/) problems, attempted solutions [here](./leetcode)
